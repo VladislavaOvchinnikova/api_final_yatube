@@ -8,7 +8,7 @@
 - [x] Предоставляет данные в формате JSON.
 
 #### Технологии
-- Python 3.7
+- Python 3.2
 - Django==2.2.16
 - djangorestframework==3.12.4
 - djangorestframework-simplejwt==4.7.2
