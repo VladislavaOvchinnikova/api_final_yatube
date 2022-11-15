@@ -9,9 +9,9 @@
 
 #### Технологии
 - Python 3.2
-- Django==2.2.16
-- djangorestframework==3.12.4
-- djangorestframework-simplejwt==4.7.2
+- Django 2.2.19
+- djangorestframework 3.12.4
+- djangorestframework-simplejwt 4.7.2
 
 #### Как запустить проект
 Клонировать репозиторий и перейти в него в командной строке:
