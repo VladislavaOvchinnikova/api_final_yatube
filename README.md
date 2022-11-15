@@ -16,7 +16,7 @@
 - [x] Ограничивает количество запросов к API.
 
 #### Технологии
-- Python 3.2
+- Python 3.7
 - Django 2.2.19
 - djangorestframework 3.12.4
 - djangorestframework-simplejwt 4.7.2
